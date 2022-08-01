@@ -11,3 +11,12 @@ In this project we will focus on three tasks
 - numpy
 - pandas
 - datetime
+- matplotlib
+- seaborn
+- sklearn
+- mpl_toolkits
+- yellowbrick
+- plotly
+- sys
+
+
