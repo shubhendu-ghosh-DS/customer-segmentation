@@ -7,3 +7,7 @@ In this project we will focus on three tasks
 - Clustering
 - customer persona analysis
 
+## Requirements
+- numpy
+- pandas
+- datetime
